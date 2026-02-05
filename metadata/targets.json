@@ -1,0 +1,28 @@
+{
+ "signatures": [
+  {
+   "keyid": "9ffc48008ecc40c63f9b466baecc7e304a3b3c8b1a9f544930def93013ea3528",
+   "sig": "b10e38e28a4fbd85df64c23280ff5e3e99dba1ceabc38428ee3cb260eea23c37c62f4498fb8c0840b4824ef0205874a758d062c66e37f7e383c69c0963ee7803"
+  }
+ ],
+ "signed": {
+  "_type": "targets",
+  "expires": "2026-02-12T17:36:11Z",
+  "spec_version": "1.0.31",
+  "targets": {
+   "Emilia-1.0.0.tar.gz": {
+    "custom": {
+     "tufup": {
+      "required": false
+     },
+     "user": null
+    },
+    "hashes": {
+     "sha256": "5f8ebc9c44e2451e055d50438cfffcdde5920dab4e5f2cf3ec1d807e2ae51ec4"
+    },
+    "length": 15210334
+   }
+  },
+  "version": 2
+ }
+}
